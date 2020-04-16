@@ -1,0 +1,126 @@
+C:\Users\Toan_Coder\AppData\Local\Temporary Projects\Thi_nghiem1\bin\Release\Thi_nghiem1.exe
+C:\Users\Toan_Coder\AppData\Local\Temporary Projects\Thi_nghiem1\bin\Release\Thi_nghiem1.pdb
+C:\Users\Toan_Coder\AppData\Local\Temporary Projects\Thi_nghiem1\obj\x86\Release\Thi_nghiem1.Form1.resources
+C:\Users\Toan_Coder\AppData\Local\Temporary Projects\Thi_nghiem1\obj\x86\Release\Thi_nghiem1.Form2.resources
+C:\Users\Toan_Coder\AppData\Local\Temporary Projects\Thi_nghiem1\obj\x86\Release\Thi_nghiem1.Form3.resources
+C:\Users\Toan_Coder\AppData\Local\Temporary Projects\Thi_nghiem1\obj\x86\Release\Thi_nghiem1.Properties.Resources.resources
+C:\Users\Toan_Coder\AppData\Local\Temporary Projects\Thi_nghiem1\obj\x86\Release\Thi_nghiem1.csproj.GenerateResource.Cache
+C:\Users\Toan_Coder\AppData\Local\Temporary Projects\Thi_nghiem1\obj\x86\Release\Thi_nghiem1.exe
+C:\Users\Toan_Coder\AppData\Local\Temporary Projects\Thi_nghiem1\obj\x86\Release\Thi_nghiem1.pdb
+C:\Users\Toan_Coder\Documents\Visual Studio 2010\Projects\Thi_nghiem1\Thi_nghiem1\obj\x86\Release\Thi_nghiem1.exe
+C:\Users\Toan_Coder\Documents\Visual Studio 2010\Projects\Thi_nghiem1\Thi_nghiem1\obj\x86\Release\Thi_nghiem1.pdb
+C:\Users\Toan_Coder\Documents\Visual Studio 2010\Projects\Thi_nghiem1\Thi_nghiem1\bin\Release\Thi_nghiem1.exe
+C:\Users\Toan_Coder\Documents\Visual Studio 2010\Projects\Thi_nghiem1\Thi_nghiem1\bin\Release\Thi_nghiem1.pdb
+C:\Users\Toan_Coder\Documents\Visual Studio 2010\Projects\Thi_nghiem1\Thi_nghiem1\obj\x86\Release\Thi_nghiem1.csprojResolveAssemblyReference.cache
+C:\Users\Toan_Coder\Documents\Visual Studio 2010\Projects\Thi_nghiem1\Thi_nghiem1\obj\x86\Release\Thi_nghiem1.Form1.resources
+C:\Users\Toan_Coder\Documents\Visual Studio 2010\Projects\Thi_nghiem1\Thi_nghiem1\obj\x86\Release\Thi_nghiem1.Form2.resources
+C:\Users\Toan_Coder\Documents\Visual Studio 2010\Projects\Thi_nghiem1\Thi_nghiem1\obj\x86\Release\Thi_nghiem1.Form3.resources
+C:\Users\Toan_Coder\Documents\Visual Studio 2010\Projects\Thi_nghiem1\Thi_nghiem1\obj\x86\Release\Thi_nghiem1.Properties.Resources.resources
+C:\Users\Toan_Coder\Documents\Visual Studio 2010\Projects\Thi_nghiem1\Thi_nghiem1\obj\x86\Release\Thi_nghiem1.csproj.GenerateResource.Cache
+E:\Tai lieu cua toan\Projects\Thi_nghiem1\Thi_nghiem1\bin\Release\Thi_nghiem1.exe
+E:\Tai lieu cua toan\Projects\Thi_nghiem1\Thi_nghiem1\bin\Release\Thi_nghiem1.pdb
+E:\Tai lieu cua toan\Projects\Thi_nghiem1\Thi_nghiem1\obj\x86\Release\ResolveAssemblyReference.cache
+E:\Tai lieu cua toan\Projects\Thi_nghiem1\Thi_nghiem1\obj\x86\Release\Thi_nghiem1.Form1.resources
+E:\Tai lieu cua toan\Projects\Thi_nghiem1\Thi_nghiem1\obj\x86\Release\Thi_nghiem1.Form2.resources
+E:\Tai lieu cua toan\Projects\Thi_nghiem1\Thi_nghiem1\obj\x86\Release\Thi_nghiem1.Form3.resources
+E:\Tai lieu cua toan\Projects\Thi_nghiem1\Thi_nghiem1\obj\x86\Release\Thi_nghiem1.Properties.Resources.resources
+E:\Tai lieu cua toan\Projects\Thi_nghiem1\Thi_nghiem1\obj\x86\Release\GenerateResource.read.1.tlog
+E:\Tai lieu cua toan\Projects\Thi_nghiem1\Thi_nghiem1\obj\x86\Release\GenerateResource.write.1.tlog
+E:\Tai lieu cua toan\Projects\Thi_nghiem1\Thi_nghiem1\obj\x86\Release\Thi_nghiem1.exe
+E:\Tai lieu cua toan\Projects\Thi_nghiem1\Thi_nghiem1\obj\x86\Release\Thi_nghiem1.pdb
+F:\Projects10\Thi_nghiem1\Thi_nghiem1\bin\Release\Thi_nghiem1.exe
+F:\Projects10\Thi_nghiem1\Thi_nghiem1\bin\Release\Thi_nghiem1.pdb
+F:\Projects10\Thi_nghiem1\Thi_nghiem1\obj\x86\Release\ResolveAssemblyReference.cache
+F:\Projects10\Thi_nghiem1\Thi_nghiem1\obj\x86\Release\Thi_nghiem1.Form1.resources
+F:\Projects10\Thi_nghiem1\Thi_nghiem1\obj\x86\Release\Thi_nghiem1.Form2.resources
+F:\Projects10\Thi_nghiem1\Thi_nghiem1\obj\x86\Release\Thi_nghiem1.Form3.resources
+F:\Projects10\Thi_nghiem1\Thi_nghiem1\obj\x86\Release\Thi_nghiem1.Properties.Resources.resources
+F:\Projects10\Thi_nghiem1\Thi_nghiem1\obj\x86\Release\GenerateResource.read.1.tlog
+F:\Projects10\Thi_nghiem1\Thi_nghiem1\obj\x86\Release\GenerateResource.write.1.tlog
+F:\Projects10\Thi_nghiem1\Thi_nghiem1\obj\x86\Release\Thi_nghiem1.exe
+F:\Projects10\Thi_nghiem1\Thi_nghiem1\obj\x86\Release\Thi_nghiem1.pdb
+C:\Documents and Settings\Admin\My Documents\Visual Studio 2010\Projects\Thi_nghiem1\Thi_nghiem1\bin\Release\Thi_nghiem1.exe
+C:\Documents and Settings\Admin\My Documents\Visual Studio 2010\Projects\Thi_nghiem1\Thi_nghiem1\bin\Release\Thi_nghiem1.pdb
+C:\Documents and Settings\Admin\My Documents\Visual Studio 2010\Projects\Thi_nghiem1\Thi_nghiem1\obj\x86\Release\ResolveAssemblyReference.cache
+C:\Documents and Settings\Admin\My Documents\Visual Studio 2010\Projects\Thi_nghiem1\Thi_nghiem1\obj\x86\Release\Thi_nghiem1.Form1.resources
+C:\Documents and Settings\Admin\My Documents\Visual Studio 2010\Projects\Thi_nghiem1\Thi_nghiem1\obj\x86\Release\Thi_nghiem1.Form2.resources
+C:\Documents and Settings\Admin\My Documents\Visual Studio 2010\Projects\Thi_nghiem1\Thi_nghiem1\obj\x86\Release\Thi_nghiem1.Form3.resources
+C:\Documents and Settings\Admin\My Documents\Visual Studio 2010\Projects\Thi_nghiem1\Thi_nghiem1\obj\x86\Release\Thi_nghiem1.Form4.resources
+C:\Documents and Settings\Admin\My Documents\Visual Studio 2010\Projects\Thi_nghiem1\Thi_nghiem1\obj\x86\Release\Thi_nghiem1.Properties.Resources.resources
+C:\Documents and Settings\Admin\My Documents\Visual Studio 2010\Projects\Thi_nghiem1\Thi_nghiem1\obj\x86\Release\GenerateResource.read.1.tlog
+C:\Documents and Settings\Admin\My Documents\Visual Studio 2010\Projects\Thi_nghiem1\Thi_nghiem1\obj\x86\Release\GenerateResource.write.1.tlog
+C:\Documents and Settings\Admin\My Documents\Visual Studio 2010\Projects\Thi_nghiem1\Thi_nghiem1\obj\x86\Release\Thi_nghiem1.exe
+C:\Documents and Settings\Admin\My Documents\Visual Studio 2010\Projects\Thi_nghiem1\Thi_nghiem1\obj\x86\Release\Thi_nghiem1.pdb
+G:\C# MAIN\Projects\Thi_nghiem1\Thi_nghiem1\obj\x86\Release\Thi_nghiem1.exe
+G:\C# MAIN\Projects\Thi_nghiem1\Thi_nghiem1\obj\x86\Release\Thi_nghiem1.pdb
+G:\C# MAIN\Projects\Thi_nghiem1\Thi_nghiem1\obj\x86\Release\Thi_nghiem1.csprojResolveAssemblyReference.cache
+G:\C# MAIN\Projects\Thi_nghiem1\Thi_nghiem1\obj\x86\Release\Thi_nghiem1.Form1.resources
+G:\C# MAIN\Projects\Thi_nghiem1\Thi_nghiem1\obj\x86\Release\Thi_nghiem1.Form2.resources
+G:\C# MAIN\Projects\Thi_nghiem1\Thi_nghiem1\obj\x86\Release\Thi_nghiem1.Form3.resources
+G:\C# MAIN\Projects\Thi_nghiem1\Thi_nghiem1\obj\x86\Release\Thi_nghiem1.Form4.resources
+G:\C# MAIN\Projects\Thi_nghiem1\Thi_nghiem1\obj\x86\Release\Thi_nghiem1.csproj.GenerateResource.Cache
+G:\C# MAIN\Projects\Thi_nghiem1\Thi_nghiem1\bin\Release\Thi_nghiem1.exe
+G:\C# MAIN\Projects\Thi_nghiem1\Thi_nghiem1\bin\Release\Thi_nghiem1.pdb
+G:\C# MAIN\Projects\Thi_nghiem1\Thi_nghiem1\obj\x86\Release\Thi_nghiem1.Properties.Resources.resources
+G:\C# MAIN\Projects\Thi_nghiem1\Thi_nghiem1\obj\x86\Release\Thi_nghiem1.Form5.resources
+C:\Documents and Settings\Admin\Desktop\C# MAIN\Projects\Thi_nghiem1\Thi_nghiem1\obj\x86\Release\Thi_nghiem1.exe
+C:\Documents and Settings\Admin\Desktop\C# MAIN\Projects\Thi_nghiem1\Thi_nghiem1\obj\x86\Release\Thi_nghiem1.pdb
+C:\Documents and Settings\Admin\Desktop\C# MAIN\Projects\Thi_nghiem1\Thi_nghiem1\bin\Release\Thi_nghiem1.exe
+C:\Documents and Settings\Admin\Desktop\C# MAIN\Projects\Thi_nghiem1\Thi_nghiem1\bin\Release\Thi_nghiem1.pdb
+C:\Documents and Settings\Admin\Desktop\C# MAIN\Projects\Thi_nghiem1\Thi_nghiem1\obj\x86\Release\ResolveAssemblyReference.cache
+C:\Documents and Settings\Admin\Desktop\C# MAIN\Projects\Thi_nghiem1\Thi_nghiem1\obj\x86\Release\Thi_nghiem1.Form1.resources
+C:\Documents and Settings\Admin\Desktop\C# MAIN\Projects\Thi_nghiem1\Thi_nghiem1\obj\x86\Release\Thi_nghiem1.Form2.resources
+C:\Documents and Settings\Admin\Desktop\C# MAIN\Projects\Thi_nghiem1\Thi_nghiem1\obj\x86\Release\Thi_nghiem1.Form3.resources
+C:\Documents and Settings\Admin\Desktop\C# MAIN\Projects\Thi_nghiem1\Thi_nghiem1\obj\x86\Release\Thi_nghiem1.Form4.resources
+C:\Documents and Settings\Admin\Desktop\C# MAIN\Projects\Thi_nghiem1\Thi_nghiem1\obj\x86\Release\Thi_nghiem1.Form5.resources
+C:\Documents and Settings\Admin\Desktop\C# MAIN\Projects\Thi_nghiem1\Thi_nghiem1\obj\x86\Release\Thi_nghiem1.Properties.Resources.resources
+C:\Documents and Settings\Admin\Desktop\C# MAIN\Projects\Thi_nghiem1\Thi_nghiem1\obj\x86\Release\GenerateResource.read.1.tlog
+C:\Documents and Settings\Admin\Desktop\C# MAIN\Projects\Thi_nghiem1\Thi_nghiem1\obj\x86\Release\GenerateResource.write.1.tlog
+G:\NEW DA SUA\C# MAIN\Projects\Thi_nghiem1\Thi_nghiem1\obj\x86\Release\Thi_nghiem1.exe
+G:\NEW DA SUA\C# MAIN\Projects\Thi_nghiem1\Thi_nghiem1\obj\x86\Release\Thi_nghiem1.pdb
+G:\NEW DA SUA\C# MAIN\Projects\Thi_nghiem1\Thi_nghiem1\bin\Release\Thi_nghiem1.exe
+G:\NEW DA SUA\C# MAIN\Projects\Thi_nghiem1\Thi_nghiem1\bin\Release\Thi_nghiem1.pdb
+G:\NEW DA SUA\C# MAIN\Projects\Thi_nghiem1\Thi_nghiem1\obj\x86\Release\Thi_nghiem1.csprojResolveAssemblyReference.cache
+G:\NEW DA SUA\C# MAIN\Projects\Thi_nghiem1\Thi_nghiem1\obj\x86\Release\Thi_nghiem1.Form1.resources
+G:\NEW DA SUA\C# MAIN\Projects\Thi_nghiem1\Thi_nghiem1\obj\x86\Release\Thi_nghiem1.Form2.resources
+G:\NEW DA SUA\C# MAIN\Projects\Thi_nghiem1\Thi_nghiem1\obj\x86\Release\Thi_nghiem1.Form3.resources
+G:\NEW DA SUA\C# MAIN\Projects\Thi_nghiem1\Thi_nghiem1\obj\x86\Release\Thi_nghiem1.Form4.resources
+G:\NEW DA SUA\C# MAIN\Projects\Thi_nghiem1\Thi_nghiem1\obj\x86\Release\Thi_nghiem1.Form5.resources
+G:\NEW DA SUA\C# MAIN\Projects\Thi_nghiem1\Thi_nghiem1\obj\x86\Release\Thi_nghiem1.Properties.Resources.resources
+G:\NEW DA SUA\C# MAIN\Projects\Thi_nghiem1\Thi_nghiem1\obj\x86\Release\Thi_nghiem1.csproj.GenerateResource.Cache
+C:\Users\admin\Desktop\NEW DA SUA\C# MAIN\Projects\Thi_nghiem1\Thi_nghiem1\obj\x86\Release\Thi_nghiem1.exe
+C:\Users\admin\Desktop\NEW DA SUA\C# MAIN\Projects\Thi_nghiem1\Thi_nghiem1\obj\x86\Release\Thi_nghiem1.pdb
+C:\Users\admin\Desktop\NEW DA SUA\C# MAIN\Projects\Thi_nghiem1\Thi_nghiem1\bin\Release\Thi_nghiem1.exe
+C:\Users\admin\Desktop\NEW DA SUA\C# MAIN\Projects\Thi_nghiem1\Thi_nghiem1\bin\Release\Thi_nghiem1.pdb
+C:\Users\admin\Desktop\NEW DA SUA\C# MAIN\Projects\Thi_nghiem1\Thi_nghiem1\obj\x86\Release\Thi_nghiem1.csprojResolveAssemblyReference.cache
+C:\Users\admin\Desktop\NEW DA SUA\C# MAIN\Projects\Thi_nghiem1\Thi_nghiem1\obj\x86\Release\Thi_nghiem1.Form1.resources
+C:\Users\admin\Desktop\NEW DA SUA\C# MAIN\Projects\Thi_nghiem1\Thi_nghiem1\obj\x86\Release\Thi_nghiem1.Form2.resources
+C:\Users\admin\Desktop\NEW DA SUA\C# MAIN\Projects\Thi_nghiem1\Thi_nghiem1\obj\x86\Release\Thi_nghiem1.Form3.resources
+C:\Users\admin\Desktop\NEW DA SUA\C# MAIN\Projects\Thi_nghiem1\Thi_nghiem1\obj\x86\Release\Thi_nghiem1.Form4.resources
+C:\Users\admin\Desktop\NEW DA SUA\C# MAIN\Projects\Thi_nghiem1\Thi_nghiem1\obj\x86\Release\Thi_nghiem1.Form5.resources
+C:\Users\admin\Desktop\NEW DA SUA\C# MAIN\Projects\Thi_nghiem1\Thi_nghiem1\obj\x86\Release\Thi_nghiem1.Properties.Resources.resources
+C:\Users\admin\Desktop\NEW DA SUA\C# MAIN\Projects\Thi_nghiem1\Thi_nghiem1\obj\x86\Release\Thi_nghiem1.csproj.GenerateResource.Cache
+D:\nguyentu\Ho so NCKH Thi nghiem ghep noi may tinh\code thi nghiem ghep noi may tinh\C# MAIN\Projects\Thi_nghiem1\Thi_nghiem1\obj\x86\Release\Thi_nghiem1.exe
+D:\nguyentu\Ho so NCKH Thi nghiem ghep noi may tinh\code thi nghiem ghep noi may tinh\C# MAIN\Projects\Thi_nghiem1\Thi_nghiem1\obj\x86\Release\Thi_nghiem1.pdb
+D:\Thi-nghiem-ket-noi-may-tinh\Thi nghiem ket noi may tinh\Projects\Thi_nghiem1\Thi_nghiem1\bin\Release\Thi_nghiem1.exe
+D:\Thi-nghiem-ket-noi-may-tinh\Thi nghiem ket noi may tinh\Projects\Thi_nghiem1\Thi_nghiem1\bin\Release\Thi_nghiem1.pdb
+D:\Thi-nghiem-ket-noi-may-tinh\Thi nghiem ket noi may tinh\Projects\Thi_nghiem1\Thi_nghiem1\obj\x86\Release\Thi_nghiem1.csprojResolveAssemblyReference.cache
+D:\Thi-nghiem-ket-noi-may-tinh\Thi nghiem ket noi may tinh\Projects\Thi_nghiem1\Thi_nghiem1\obj\x86\Release\Thi_nghiem1.Form1.resources
+D:\Thi-nghiem-ket-noi-may-tinh\Thi nghiem ket noi may tinh\Projects\Thi_nghiem1\Thi_nghiem1\obj\x86\Release\Thi_nghiem1.Form2.resources
+D:\Thi-nghiem-ket-noi-may-tinh\Thi nghiem ket noi may tinh\Projects\Thi_nghiem1\Thi_nghiem1\obj\x86\Release\Thi_nghiem1.Properties.Resources.resources
+D:\Thi-nghiem-ket-noi-may-tinh\Thi nghiem ket noi may tinh\Projects\Thi_nghiem1\Thi_nghiem1\obj\x86\Release\Thi_nghiem1.csproj.GenerateResource.Cache
+D:\Thi-nghiem-ket-noi-may-tinh\Thi nghiem ket noi may tinh\Projects\Thi_nghiem1\Thi_nghiem1\obj\x86\Release\Thi_nghiem1.exe
+D:\Thi-nghiem-ket-noi-may-tinh\Thi nghiem ket noi may tinh\Projects\Thi_nghiem1\Thi_nghiem1\obj\x86\Release\Thi_nghiem1.pdb
+D:\Thi-nghiem-ket-noi-may-tinh\Thi nghiem ket noi may tinh\Projects\Thi_nghiem1\Thi_nghiem1\bin\Release\Geckofx-Core.pdb
+D:\Thi-nghiem-ket-noi-may-tinh\Thi nghiem ket noi may tinh\Projects\Thi_nghiem1\Thi_nghiem1\bin\Release\Geckofx-Winforms.pdb
+E:\Data\C#\Thi-nghiem-ket-noi-may-tinh\Thi nghiem ket noi may tinh\Projects\Thi_nghiem1\Thi_nghiem1\bin\Release\Thi_nghiem1.exe
+E:\Data\C#\Thi-nghiem-ket-noi-may-tinh\Thi nghiem ket noi may tinh\Projects\Thi_nghiem1\Thi_nghiem1\bin\Release\Thi_nghiem1.pdb
+E:\Data\C#\Thi-nghiem-ket-noi-may-tinh\Thi nghiem ket noi may tinh\Projects\Thi_nghiem1\Thi_nghiem1\bin\Release\Geckofx-Core.pdb
+E:\Data\C#\Thi-nghiem-ket-noi-may-tinh\Thi nghiem ket noi may tinh\Projects\Thi_nghiem1\Thi_nghiem1\bin\Release\Geckofx-Winforms.pdb
+E:\Data\C#\Thi-nghiem-ket-noi-may-tinh\Thi nghiem ket noi may tinh\Projects\Thi_nghiem1\Thi_nghiem1\obj\x86\Release\Thi_nghiem1.csprojResolveAssemblyReference.cache
+E:\Data\C#\Thi-nghiem-ket-noi-may-tinh\Thi nghiem ket noi may tinh\Projects\Thi_nghiem1\Thi_nghiem1\obj\x86\Release\Thi_nghiem1.Form2.resources
+E:\Data\C#\Thi-nghiem-ket-noi-may-tinh\Thi nghiem ket noi may tinh\Projects\Thi_nghiem1\Thi_nghiem1\obj\x86\Release\Thi_nghiem1.Properties.Resources.resources
+E:\Data\C#\Thi-nghiem-ket-noi-may-tinh\Thi nghiem ket noi may tinh\Projects\Thi_nghiem1\Thi_nghiem1\obj\x86\Release\Thi_nghiem1.Form1.resources
+E:\Data\C#\Thi-nghiem-ket-noi-may-tinh\Thi nghiem ket noi may tinh\Projects\Thi_nghiem1\Thi_nghiem1\obj\x86\Release\Thi_nghiem1.csproj.GenerateResource.Cache
+E:\Data\C#\Thi-nghiem-ket-noi-may-tinh\Thi nghiem ket noi may tinh\Projects\Thi_nghiem1\Thi_nghiem1\obj\x86\Release\Thi_nghiem1.exe
+E:\Data\C#\Thi-nghiem-ket-noi-may-tinh\Thi nghiem ket noi may tinh\Projects\Thi_nghiem1\Thi_nghiem1\obj\x86\Release\Thi_nghiem1.pdb
